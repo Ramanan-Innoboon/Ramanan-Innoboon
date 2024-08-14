@@ -1,4 +1,4 @@
-- 👋 Hi, This is @Ramanan-Innoboon
+"👋 Hi, IB. This is @Ramanan"
 
 <!---
 Ramanan-Innoboon/Ramanan-Innoboon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
